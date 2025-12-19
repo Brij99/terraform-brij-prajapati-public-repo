@@ -1,2 +1,5 @@
-# terraform-brij-prajapati-public-repo
-Public Terraform repository for Brij Prajapati
+# Terraform GitHub Repository
+
+**Student Name:** Brij Prajapati
+
+This public repository was created using **Terraform**.
